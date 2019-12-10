@@ -37,8 +37,8 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  aray.flatten
-
+  array.flatten
+end
 
 
 
